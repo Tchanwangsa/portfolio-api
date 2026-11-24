@@ -7,8 +7,8 @@ import (
 	"net/http"
 	"time"
 
-	"portfolio-v3/internal/runtimeenv"
-	"portfolio-v3/portfolioapi"
+	"portfolio-api/internal/runtimeenv"
+	"portfolio-api/portfolioapi"
 )
 
 func main() {

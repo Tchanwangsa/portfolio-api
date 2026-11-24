@@ -14,8 +14,8 @@ import (
 	"strings"
 	"time"
 
-	"portfolio-v3/internal/runtimeenv"
-	"portfolio-v3/internal/stats"
+	"portfolio-api/internal/runtimeenv"
+	"portfolio-api/internal/stats"
 )
 
 // label names the launchd agent that runs the collector.

@@ -11,8 +11,8 @@ import (
 	"path/filepath"
 	"time"
 
-	"portfolio-v3/internal/runtimeenv"
-	"portfolio-v3/internal/stats"
+	"portfolio-api/internal/runtimeenv"
+	"portfolio-api/internal/stats"
 )
 
 const usage = `Usage: telemetry <command> [flags]

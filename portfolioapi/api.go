@@ -12,7 +12,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"portfolio-v3/internal/stats"
+	"portfolio-api/internal/stats"
 )
 
 type statsAPI struct {

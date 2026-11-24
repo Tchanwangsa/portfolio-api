@@ -6,7 +6,7 @@ import (
 	"os"
 	"sync"
 
-	"portfolio-v3/portfolioapi"
+	"portfolio-api/portfolioapi"
 )
 
 var setup = sync.OnceValues(func() (http.Handler, error) {

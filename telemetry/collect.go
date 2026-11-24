@@ -11,7 +11,7 @@ import (
 	"strings"
 	"time"
 
-	"portfolio-v3/internal/stats"
+	"portfolio-api/internal/stats"
 )
 
 // graph is the part of `tokscale graph` output that the snapshot needs.

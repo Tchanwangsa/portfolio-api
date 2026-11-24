@@ -1,4 +1,4 @@
-module portfolio-v3
+module portfolio-api
 
 go 1.25.0
 

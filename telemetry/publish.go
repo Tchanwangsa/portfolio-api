@@ -11,7 +11,7 @@ import (
 	"net/url"
 	"time"
 
-	"portfolio-v3/internal/stats"
+	"portfolio-api/internal/stats"
 )
 
 // checkTarget rejects settings that would send the token somewhere unsafe.

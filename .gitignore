@@ -1,0 +1,8 @@
+.DS_Store
+*.local
+
+/.vercel/
+/data/
+/server/.env.*
+!/server/.env.*.example
+/telemetry/.env
