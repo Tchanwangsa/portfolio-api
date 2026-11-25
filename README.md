@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".github/assets/banner-dark.svg">
-  <img src=".github/assets/banner-light.svg" alt="Portfolio API" width="720">
+  <img src=".github/assets/banner-light.svg" alt="Tanat Chanwangsa" width="720">
 </picture>
 
 <p>
@@ -11,12 +11,12 @@
   <a href="https://github.com/Tchanwangsa/portfolio-v3"><strong>Site repo</strong></a>
 </p>
 
+<p>
+  <a href="https://go.dev/"><img alt="Go" src="https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white"></a>&nbsp;
+  <a href="https://vercel.com/"><img alt="Vercel" src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+</p>
+
 </div>
-
-# portfolio-api
-
-[![Go](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
-[![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 
 ## About
 
